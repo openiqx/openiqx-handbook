@@ -16,6 +16,7 @@ This repository contains all the knowledge and best practices for contributing t
 
 ## Structure
 
+- `git-tips/` - Useful git how-tos for open source contributors (syncing forks, backporting, rebasing, and more)
 - `handbooks/` - Core guides on collaboration, reading codebases, PR best practices, testing, and more
 - `CONTRIBUTING.md` - Guidelines for contributing to all OpenIQX repos
 - `CODE_OF_CONDUCT.md` - Community behavior and values
