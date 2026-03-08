@@ -40,7 +40,7 @@ git rebase -i HEAD~3
 
 Replace `3` with the number of commits you want to squash.
 
-Git will open an editor like this:
+Git will open an editor like this from oldest to latest (so upside-down):
 
 ```
 pick a1b2c3 first commit
