@@ -16,7 +16,7 @@ This repository contains all the knowledge and best practices for contributing t
 
 ## Structure
 
-- `git-tips/` - Useful git how-tos for open source contributors (syncing forks, backporting, rebasing, and more)
+- `git-tips/` - Useful git workflows for open source contributors (syncing forks, backporting, rebasing, and more)
 - `handbooks/` - Core guides on collaboration, reading codebases, PR best practices, testing, and more
 - `CONTRIBUTING.md` - Guidelines for contributing to all OpenIQX repos
 - `CODE_OF_CONDUCT.md` - Community behavior and values
@@ -27,7 +27,8 @@ This repository contains all the knowledge and best practices for contributing t
 
 1. Read the [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute.
 2. Explore the `handbooks/` folder for guidance on working with large codebases.
-3. Follow the step-by-step practices for claiming issues, writing commits, and submitting PRs.
+3. Check out the git-tips/ folder for essential Git workflows (syncing forks, backporting, rebasing, and more)
+4. Follow the step-by-step practices for claiming issues, writing commits, and submitting PRs.
 
 ---
 
